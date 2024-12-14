@@ -1,0 +1,26 @@
+         .ermwhatasigma{
+         background-color: black;color:white;
+         }
+         .hey{ font-family: 'Rubik Distressed';}
+         body{
+         background-color: black;color:white;
+         text-align: center;
+         font-family: 'Tiny5';
+         }
+         table, th, td{
+         border: 1px solid rgb(255, 255, 255);
+         border-collapse: separate;
+         border-radius: 10px;
+         border-color:rgb(255, 255, 255);
+         border-style: solid;
+         padding: 10px;  
+         margin-left: auto;
+         margin-right: auto;
+         border-spacing: 0px;
+         border-bottom-right-radius:10px ;
+         border-bottom-left-radius:10px ;
+         width: 50%;
+         }
+         span{
+            color: darkred;
+         }
